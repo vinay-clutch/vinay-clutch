@@ -48,34 +48,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🟢 Vibe-Chat – RealTime Chat Application  
-🔗 **Repo:** https://github.com/vinay-clutch/Vibe-Chat  
-
-- Secure real-time chat with **JWT authentication**  
-- Responsive React frontend with smooth UI  
-- Backend built using **Node.js, Express, MongoDB**
-
----
-
-#### 🟣 AI-Powered Resume Analyzer  
-🔗 **Repo:** https://github.com/vinay-clutch/ai-resume--analyzer  
-
-- AI-based **ATS scoring** & real-time PDF analysis  
-- Clean UI with **React + Tailwind + Zustand**  
-- Helps users understand how strong their resume is
-
----
-
-#### 🔵 AI-Powered Code Reviewer  
-🔗 **Repo:** https://github.com/vinay-clutch/code-review  
-
-- MERN app with **AI-powered code quality checks**  
-- Real-time suggestions and feedback using LLMs  
-- Authentication + dashboards for better UX
-
----
 
 
 ### 🐍 Contribution Snake (Animated)
