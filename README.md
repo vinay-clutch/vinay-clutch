@@ -19,23 +19,36 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🧑‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,java" height="45" />
+</p>
 
-**Languages**
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="45" />
+</p>
 
-`Python` · `JavaScript` · `SQL` · `HTML` · `CSS`
+### 🔧 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
+</p>
 
-**Frameworks & Libraries**
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" />
+</p>
 
-`React.js` · `Next.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS`
+### ⚙️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="45" />
+</p>
 
-**Tools**
+### 🤖 AI / Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" />
+</p>
 
-`Git` · `GitHub` · `Postman` · `VS Code` · `Figma`
-
-**Data / AI**
-
-`Pandas` · `NumPy` · Exploring **AI & LLM-based apps**
 
 ---
 
