@@ -8,15 +8,6 @@
 
 ---
 
-<!-- Badges & Visitor Count -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinay-clutch&label=Profile%20Views&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/badge/Code-Always%20Learning-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-blueviolet?style=for-the-badge" />
-</p>
-
----
-
 ### 🌟 About Me
 
 - 🧑‍💻 **Full Stack Developer (MERN)** building real-world, scalable apps  
@@ -45,19 +36,6 @@
 **Data / AI**
 
 `Pandas` · `NumPy` · Exploring **AI & LLM-based apps**
-
----
-
-
-
-### 🐍 Contribution Snake (Animated)
-
-> ⚠️ After setting up the workflow (steps below), this will show an animated snake.
-
-<p align="center">
-  <img src="https://github.com/vinay-clutch/vinay-clutch/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
-  <img src="https://github.com/vinay-clutch/vinay-clutch/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
-</p>
 
 ---
 
