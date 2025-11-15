@@ -77,29 +77,6 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay-clutch&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vinay-clutch&theme=radical" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-clutch&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinay-clutch&theme=radical&margin-w=10&margin-h=10&row=1&column=6" alt="trophies" />
-</p>
-
----
 
 ### 🐍 Contribution Snake (Animated)
 
