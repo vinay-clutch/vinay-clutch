@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python,java" height="45" />
+  <img src="https://skillicons.dev/icons?i=js,python" height="45" />
 </p>
 
 ### 🎨 Frontend
