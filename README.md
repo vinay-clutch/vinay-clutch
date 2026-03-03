@@ -7,7 +7,6 @@
 </p>
 
 ---
-![Uptime](https://upgaurd-backend-production.up.railway.app/api/v1/websites/badge/8306faa9-7138-46fd-8a31-d82f746a418c)
 
 ### 🌟 About Me
 
