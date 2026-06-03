@@ -1,72 +1,60 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Vinay B S</h1>
-<h3 align="center">Full Stack Developer (MERN) | AI Enthusiast | Learning & Building 🚀</h3>
+# Vinay B S
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+MERN;AI+%26+Web+Development+Enthusiast;Trying+To+Improve+1%25+Every+Day;Finding+Myself+Through+Code+%F0%9F%92%AB" />
-</p>
+Full-stack developer focused on building scalable web applications and AI-powered tools.
+
+Currently working with React, Node.js, Express, MongoDB, and modern API integrations.
 
 ---
 
-### 🌟 About Me
+## Tech Stack
 
-- 🧑‍💻 **Full Stack Developer (MERN)** building real-world, scalable apps  
-- 🤖 Love creating **AI-powered tools** that make life easier  
-- 🌱 Currently learning & improving: **Next.js, backend architecture, AI integration**  
-- 🧠 Interested in **Web Dev · AI · Data · System Design**  
-- 🔍 On a journey to **find myself through the projects I build**  
-- 💬 I believe in: `Try → Break → Fix → Learn → Repeat`  
+Frontend:
+React, Next.js, Tailwind CSS
 
----
+Backend:
+Node.js, Express
 
-### 🧑‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,python" height="45" />
-</p>
+Databases:
+MongoDB, SQLite, MySQL
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="45" />
-</p>
-
-### 🔧 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45" />
-</p>
-
-### ⚙️ Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="45" />
-</p>
-
-### 🤖 AI / Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45" />
-</p>
-
+Tools:
+Git, REST APIs, Vercel, Render
 
 ---
 
-### ✨ Quote
+## Featured Projects
 
-> *“I’m not the best yet — but I’m becoming better than yesterday.”*  
+### Smart Feedback System
+Full-stack feedback analysis platform with sentiment analysis dashboards.
+
+Tech:
+React, Node.js, SQLite, Chart.js
+
+### AI Career Coach
+AI-powered resume feedback and interview preparation platform.
+
+Tech:
+React, Node.js, OpenAI API, MongoDB
+
+### UpGuard Monitor
+Website uptime monitoring tool with alerting and response tracking.
+
+Tech:
+Node.js, Express, Axios
 
 ---
 
-### 📫 Connect With Me
+## Current Focus
 
-- 💼 **LinkedIn:** [linkedin.com/in/vinaybs107](https://www.linkedin.com/in/vinaybs107)  
-- 📧 **Email:** [vinayvinay0256@gmail.com](mailto:vinayvinay0256@gmail.com)  
+- Full-stack engineering
+- Backend architecture
+- AI integrations
+- System design fundamentals
 
 ---
 
-<p align="center">
-  Thanks for visiting 💙  
-  <br/>
-  ⭐ Feel free to star any repo you like!
-</p>
+## Links
+
+Portfolio: your-link  
+LinkedIn: your-link  
+Email: your-email
