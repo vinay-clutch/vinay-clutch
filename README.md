@@ -1,5 +1,5 @@
 <!-- Top Banner Image -->
-<img src="banner.png" alt="Aesthetic Branch Banner" width="100%" style="border-radius: 6px;" />
+<img src="banner.jpg" alt="Aesthetic Branch Banner" width="100%" style="border-radius: 6px;" />
 
 <br>
 
