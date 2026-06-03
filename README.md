@@ -2,14 +2,18 @@
 
 # VINAY B S
 ### `Full-Stack Developer · Builder · Open Source`
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=58A6FF&center=true&vCenter=true&width=435&lines=I+build+things+that+actually+work;Full-stack+from+DB+to+UI;Try+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Ship;Currently+open+to+opportunities)](https://git.io/typing-svg)
+
 </div>
 ---
-### 
-▸ About
+
+### ▸ About
+
 - Final-year IS Engineering student — shipping real products, not just assignments
 - Built **UpGuard** — AI-powered uptime monitoring SaaS with anomaly detection & real-time alerts  
 - Mindset: *Try → Break → Fix → Ship*
+
 ---
 ### ▸ Stack
 
