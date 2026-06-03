@@ -1,16 +1,35 @@
 <div align="center">
   <!-- Replace 'banner.png' with the actual path or URL to your top image -->
-  <img src="banner.png" alt="Aesthetic Branch Banner" width="100%" style="border-radius: 10px;" />
+  <img src="banner.png" alt="Aesthetic Branch Banner" width="100%" style="border-radius: 8px;" />
 </div>
 
 <br>
 
 <div align="center">
-  <p><code style="color: #8b949e;">// KARNATAKA, INDIA • 2026</code></p>
+  <p>
+    <code style="padding: 6px 12px; border-radius: 6px; background-color: #161b22; border: 1px solid #30363d; color: #8b949e; font-size: 12px; font-family: monospace;">
+      // KARNATAKA, INDIA • 2026
+    </code>
+  </p>
 
-  # VINAY B S
+  <h1 style="font-size: 4em; font-weight: 800; border-bottom: none; margin-bottom: 0;">
+    VINAY B S
+  </h1>
 
-  <p><strong>F U L L - S T A C K &nbsp;&nbsp; E N G I N E E R &nbsp;&nbsp; • &nbsp;&nbsp; B U I L D E R &nbsp;&nbsp; • &nbsp;&nbsp; O P E N &nbsp;&nbsp; S O U R C E</strong></p>
+  <p style="color: #c9d1d9; letter-spacing: 2px; font-size: 14px; margin-top: 10px;">
+    <strong>F U L L - S T A C K &nbsp;&nbsp; E N G I N E E R &nbsp;&nbsp; • &nbsp;&nbsp; B U I L D E R &nbsp;&nbsp; • &nbsp;&nbsp; O P E N &nbsp;&nbsp; S O U R C E</strong>
+  </p>
+
+  <br>
+
+  <!-- Job Seeking Status for Recruiters -->
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/🟢_ACTIVELY_SEEKING_ROLES-Frontend_&_Full--Stack-238636?style=for-the-badge&labelColor=161b22" alt="Actively Seeking Roles" />
+  </a>
+  
+  <p style="color: #8b949e; max-width: 600px; margin: 15px auto 30px auto; font-size: 15px; line-height: 1.5;">
+    Fresh engineer passionate about shipping real products. Specialized in building scalable, modern web applications with React, Next.js, and Node.js. Ready to bring immediate value to a fast-moving engineering team.
+  </p>
 
   ---
 </div>
